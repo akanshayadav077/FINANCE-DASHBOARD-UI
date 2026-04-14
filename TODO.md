@@ -1,14 +1,17 @@
 # GitHub Repo Upload TODO
 
-## Pending Steps (from approved plan):
-2. cd FINANCE-DASHBOARD-UI-main  
-3. git init
-4. git add .
-5. git commit -m "Initial commit: Finance Dashboard UI"
-6. gh repo create finance-dashboard-ui --public --source=. --remote=origin --push
-7. Verify with git remote -v
+## Updated Plan (use existing repo https://github.com/akanshayadav077/FINANCE-DASHBOARD-UI):
 
-## Completed:
-1. Install GitHub CLI (`gh`) - command run, confirm with `gh --version`
+## Task Complete!
 
-**Next step: 2**
+**Final Status:**
+- Local Git repo initialized and committed in `FINANCE-DASHBOARD-UI-main/`
+- Connected to existing repo: https://github.com/akanshayadav077/FINANCE-DASHBOARD-UI
+- Code pushed with `git push -u origin main --force`
+
+Repo uploaded successfully!
+
+Run `cd FINANCE-DASHBOARD-UI-main && npm install && npm run dev` to run locally.
+Delete TODO.md if desired.
+
+## Completed: All steps
